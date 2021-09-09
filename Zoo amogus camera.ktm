@@ -125,6 +125,6 @@ do {
    }
    val num = input.toInt()
    println(animals[num])
-} while (input != "exit")
+} while (true)
 print("See you later!")
 }
